@@ -1,0 +1,36 @@
+_repo: Frank-Merriwell-s-brother-b-Or-The-greatest-triumph-of-all_71945
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Standish, Burt L.
+    aliases:
+    - Patten, Gilbert
+    - Patten, William Gilbert
+    - Wilder, William West
+    - Wilder, William W. (William West)
+    - Patten, George William
+    - Patten, William G. (William Gilbert)
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '3848'
+    url: http://www.gutenberg.org/2009/agents/3848
+    wikipedia: https://en.wikipedia.org/wiki/Burt_L._Standish
+description: ''
+gutenberg_issued: '2023-10-24'
+identifiers:
+  gutenberg: '71945'
+language: en
+pgterms:marc905: 20221116082911standish
+pgterms:marc906: '1901'
+pgterms:marc907: US
+production_note: Donald Cummings, David E. Brown, Sue Clark, Rod Crawford, and the
+  Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced
+  from images generously made available by The Internet Archive)
+publication_note: '  $aPhiladelphia :$bDavid McKay, Publisher, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Frank Merriwell''s brother : $b Or, The greatest triumph of all'
+url: http://www.gutenberg.org/ebooks/71945
